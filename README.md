@@ -6,9 +6,14 @@
     ```
 3. Open the terminal or command prompt inside folder of this repository.
 4. Run
-    ```
-    python main.py
-    ```
+    - For MacOS terminal or shell terminal
+        ```
+        sudo python main.py
+        ```
+    - For windows open command prompt in administrator mode and navigate to the folder of cloned repository and run:
+        ```
+        python main.py
+        ```
 5. This will return the list of all public repositories in my user account `manyagulati123`
 
 # Customization
