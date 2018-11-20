@@ -25,7 +25,7 @@ def main():
   getRepos("https://api.github.com/users/manyagulati123/repos?", results)
   
   for repo in results:
-    print repo:
+    print repo
 
 
 main()
